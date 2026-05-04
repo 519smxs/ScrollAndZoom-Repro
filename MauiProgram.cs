@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
-using Microsoft.Maui.Controls.Compatibility.Hosting;
+// using Microsoft.Maui.Controls.Compatibility.Hosting;
 
 namespace ScrollAndZoom;
 
